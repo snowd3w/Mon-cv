@@ -9,7 +9,7 @@ Je maitrise le : HTML, CSS, JavaScript, jQuery.
 
 J'ai des notions en : PHP, MySQL, Bootstrap, AngularJS, node.js.
 
-J'ai effectué deux stage en maintenance informatique, ainsi que un en développeur web.
+J'ai effectué deux stage en maintenance informatique, ainsi qu'un en développeur web.
 
 J'aime apprendre de nouvelle chose, surtout des nouvelles langues !
 
