@@ -3,7 +3,7 @@ Voici mon cv !
 Tout d'abord, je m'appelle Benjamin.
 Je suis actuellement à la Mission Local, à la recherche d'une formation.
 
-J'ai de très bonne base en développement web.
+J'ai de très bonne base en développement web. 
 Je maitrise le : HTML, CSS, JavaScript, jQuery.
 J'ai des notions en : PHP, MySQL, Bootstrap, AngularJS, node.js.
 
