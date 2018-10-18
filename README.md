@@ -7,6 +7,8 @@ J'ai de très bonne base en développement web.
 Je maitrise le : HTML, CSS, JavaScript, jQuery.
 J'ai des notions en : PHP, MySQL, AngularJS, node.js.
 
+J'ai effectué deux stage en maintenance informatique, ainsi que un en développeur web.
+
 J'aime apprendre de nouvelle chose, surtout des nouvelles langues !
 Je parle un peu chinois.
 
