@@ -16,4 +16,4 @@ Mon site préféré, je dirais Youtube, tout simplement parce que c'est un des e
 
 J'ai déjà accompli des certifications avec OpenClassrooms, je peux vous communiquer un cv si nécessaire.
 
-Tout dans l'informatique m'intéresse, je suis intéressé par tous les domaines, et je veux apprendre le plus de chose possible.
+Je suis intéressé par tous les domaines dans l'informatique, je veux apprendre le plus de chose possible.
