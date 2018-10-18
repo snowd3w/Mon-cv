@@ -7,7 +7,7 @@ J'ai de très bonne base en développement web.
 
 Je maitrise le : HTML, CSS, JavaScript, jQuery.
 
-J'ai des notions en : PHP, MySQL, Bootstrap, AngularJS, node.js.
+J'ai des notions en : PHP, MySQL, Bootstrap, AngularJS, Node.js.
 
 J'ai effectué deux stage en maintenance informatique, ainsi qu'un en développeur web.
 
